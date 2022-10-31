@@ -1,15 +1,15 @@
 import Image from "next/image";
-import Client from "./Client";
-import Compare from "./Compare";
-import CostEffective from "./CostEffective";
-import Designed from "./Designed";
-import Experience from "./Experience";
-import Footer from "./Footer";
-import GetStart from "./GetStart";
-import Header from "./Header";
-import SelectRight from "./SelectRight";
-import TestMonial from "./TestMonial";
-import WhyUs from "./WhyUs";
+import Client from "./contents/Client";
+import Compare from "./contents/Compare";
+import CostEffective from "./contents/CostEffective";
+import Designed from "./contents/Designed";
+import Experience from "./contents/Experience";
+import Footer from "./contents/Footer";
+import GetStart from "./contents/GetStart";
+import Header from "./contents/Header";
+import SelectRight from "./contents/SelectRight";
+import TestMonial from "./contents/TestMonial";
+import WhyUs from "./contents/WhyUs";
 
 
 export default function Content() {
