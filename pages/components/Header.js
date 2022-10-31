@@ -6,7 +6,7 @@ export default function Header() {
 		<div className="header d-flex flex-row">
 			<div className="header-ground">
 				<div className=" w-50 header-text d-flex flex-column" style={{gap: '32px', marginTop: '50px'}}>
-					<span className="heading">Lorem ipsum do, lorem ipsum dolor sit amet, consectur </span>
+					<span className="heading">Lorem ipsum dolor sit amet, consectur </span>
 					<span className="text">Lorem ipsum dolor sit amet, consectetur adipiscing,Lorem ipsum dolor sit amet, consectetur adipiscing, Lorem ipsum dolor sit. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit. Lorem ipsum dolor sit amet.</span>
 					<div className="d-flex flex-row" style={{ gap: '30px'}}>
 					<button className="btn1">Try for free</button>

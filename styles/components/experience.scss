@@ -1,0 +1,71 @@
+.experience {
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(89.73deg, #392D69 0.26%, rgba(78, 45, 138, 0.926614) 26%, rgba(111, 45, 189, 0.815104) 47.3%, rgba(111, 45, 189, 0.621615) 77.41%, rgba(111, 45, 189, 0.438345) 100.67%, rgba(111, 45, 189, 0) 120.53%);
+    margin-bottom: 50px;
+    .experience-ground {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+      .circles-top-left {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+      }
+      .bottom {
+        position: absolute;
+        bottom: -20px;
+        right: 0px;
+      }
+      .circle-right {
+        position: absolute;
+        top: 43px;
+        right: -30px;
+      }
+      .circle-bottom {
+        position: absolute;
+        bottom: -15px;
+        right: 750px;
+      }
+      .dot-rectangle {
+        position: absolute;
+        top: -44px;
+        right: 550px;
+      }
+      .arrow {
+        position: absolute;
+        top: 464px;
+        left: 100px;
+      }
+      .circles {
+        position: absolute;
+        top: 60px;
+        left: 360px;
+      }
+    }
+    .experience-pic {
+      width: 100%;
+      height: 120%;
+      position: absolute;
+      .experience-pics {
+        width: 100%;
+        height: 100%;
+        position: relative;
+      }
+      .experience-text {
+        width: 587px;
+        position: absolute;
+        top: 130px;
+        left: 1100px;
+        gap: 20px;
+        color: #FFFFFF;
+        .heading2 {
+          color: #FFFFFF;
+        }
+        .text {
+          color: #FFFFFF;
+        }
+      }
+    }
+  }

@@ -45,8 +45,8 @@ export default function CostEffective() {
 				</div>
 				<div className="graph-rate">
 					<span className="graph-text" style={{marginRight: '20px', width: '10px', position: 'absolute', top:'-84px', left: '1450px'}}>$1</span>
-					<span className="graph-text" style={{width: '92px', position: 'absolute', top:'-332px', left: '1550px'}}>$11 - $16</span>
-					<span className="graph-text" style={{width: '82px', position: 'absolute', top:'-160px', left: '1700px'}}>$6 - $10</span>
+					<span className="graph-text" style={{width: '102px', position: 'absolute', top:'-332px', left: '1550px'}}>$11 - $16</span>
+					<span className="graph-text" style={{width: '97px', position: 'absolute', top:'-160px', left: '1700px'}}>$6 - $10</span>
 				</div>
 			</div>
 		</div>

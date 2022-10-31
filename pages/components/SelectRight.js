@@ -5,9 +5,9 @@ export default function SelectRight() {
 	return (
 		<div className="select-right d-flex flex-column df-center">
 			<div className="select-right-text d-flex flex-column df-center">
-				<div className=" d-flex flex-column df-center" style={{width: '602px'}}>
-					<span className="heading2  df-center">Right Candidate for the Right Job!</span>
-					<span className="text  df-center">Lorem ipsum dolor sit amet, consectetur adipiscing, lorem. Lorem ipsum dolor sit amet, consedipiscing, lorem. Lorem ipsum dolor sior adipiscing, lorem. Lorem i aonsectetur adipiscing.</span>
+				<div className=" d-flex flex-column df-center" style={{width: '722px', gap: '20px'}}>
+					<span className="heading2">Right Candidate for the Right Job!</span>
+					<span className="text" style={{width: '672px'}}>Lorem ipsum dolor sit amet, consectetur adipiscing, lorem. Lorem ipsum dolor sit amet, consedipiscing, lorem. Lorem ipsum dolor sior adipiscing, lorem. Lorem i aonsectetur adipiscing.</span>
 				</div>
 				<div className="d-flex flex-row flex-wrap df-center" style={{gap: '32px'}}>
 					<div className="d-flex flex-row df-center" style={{gap: '10px', width: '40%'}}>

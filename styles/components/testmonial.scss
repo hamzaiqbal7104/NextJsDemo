@@ -1,0 +1,31 @@
+.testimonial {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    .testimonial-card {
+      width: 100%;
+      height: auto;
+      gap: 24px;
+      .card {
+        padding: 32px;
+        gap: 10px;
+        width: 650px;
+        height: 382px;
+        background: #FFFFFF;
+        border: 0.6px solid #F4EBFF;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+      }
+      .card1 {
+        padding: 32px;
+        gap: 10px;
+        width: 650px;
+        height: 382px;
+        border: 0.6px solid #F4EBFF;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        background: linear-gradient(269.38deg, #DEDAF2 0.64%, rgba(222, 218, 242, 0.460791) 47.2%, rgba(222, 218, 242, 0) 99.59%);
+    
+      }
+    }
+  }

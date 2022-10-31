@@ -1,0 +1,60 @@
+.cost-effective {
+    width: 100%;
+    height: 480px;
+    margin: 0px 50px;
+    margin-bottom: 50px;
+    .cost-effective-ground {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      .graph-page {
+        position: absolute;
+        right: 120px;
+        top: 16px;
+      }
+      .save-tag {
+        position: absolute;
+        top: 0%;
+        right: 100px;
+      }
+      .dollar-bag {
+        position: absolute;
+        top: 20.27%;
+        right: 27.4%;
+      }
+      .dollar {
+        position: absolute;
+        right: 36.32%;
+        bottom: 6.26%;
+      }
+      .graph-line {
+        position: absolute;
+        bottom: -2%;
+        right: 120px;
+      }
+      .graph {
+        position: absolute;
+        top: 62px;
+        right: 120px;
+      }
+      .logo {
+        position: absolute;
+        top: 444px;
+        right: 455px;
+      }
+      .graph-description {
+        position: relative;
+        top: 90px;
+        
+      }
+      .graph-rate {
+        position: relative;
+        .graph-text {
+          font-weight: 600;
+          font-size: 24px;
+          line-height: 120%;
+          color: #2B3340; 
+        }       
+      }
+    }
+  }
